@@ -8,17 +8,14 @@ Managing security for large-scale events like concerts, festivals, or public gat
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; text-align: center;">
   <div>
-    <img src="https://placehold.co/600x400.png" alt="Infographic showing a tired security guard watching many screens." data-ai-hint="security guard screens" style="width:100%; border-radius: 8px;"/>
     <p style="padding-top: 8px; font-weight: 500;">Cognitive Overload</p>
     <p style="font-size: 0.9rem; color: #5F6368;">Human operators cannot effectively monitor dozens of live feeds simultaneously, leading to missed incidents.</p>
   </div>
   <div>
-    <img src="https://placehold.co/600x400.png" alt="Infographic showing a slow reaction to an emergency." data-ai-hint="slow emergency response" style="width:100%; border-radius: 8px;"/>
     <p style="padding-top: 8px; font-weight: 500;">Reactive vs. Proactive</p>
     <p style="font-size: 0.9rem; color: #5F6368;">Most systems only provide evidence after an event has occurred, rather than preventing it.</p>
   </div>
   <div>
-    <img src="https://placehold.co/600x400.png" alt="Infographic showing disconnected data sources." data-ai-hint="disconnected data" style="width:100%; border-radius: 8px;"/>
     <p style="padding-top: 8px; font-weight: 500;">Siloed Information</p>
     <p style="font-size: 0.9rem; color: #5F6368;">Camera feeds, incident logs, and personnel communication are often disconnected, creating confusion.</p>
   </div>
